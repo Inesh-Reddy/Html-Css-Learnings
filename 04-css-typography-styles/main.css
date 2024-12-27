@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Hubot Sans';
+    src: url('./Hubot\ Sans/Hubot-Sans.ttf') format('truetype'),
+         url('./Hubot\ Sans/Hubot-Sans.woff2') format('woff2');
+
+    font-family: 'Lora';
+    src: url('./Lora-v3.005/fonts/ttf/Lora-Medium.ttf') format('truetype'),
+    url('./Lora-v3.005/fonts/webfonts/Lora-Medium.woff2') format('woff2');
+}
+
+
+body {
+    font-family: 'Hubot Sans';
+}
+.container h2{
+    font-family: 'Lora';
+}
+h1{
+    font-family: 'Lora';
+}
+
